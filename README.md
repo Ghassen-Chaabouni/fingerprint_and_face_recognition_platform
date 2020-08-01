@@ -12,7 +12,8 @@ $ pip install face-recognition
 $ pip install imageai
 ```
 
-2/ Download the model and place it in the scripts folder.
+2/ Download the model and place it in the scripts folder
+
 https://www.mediafire.com/file/8h718f9rof90y7q/file
 
 3/ Run these commands.
